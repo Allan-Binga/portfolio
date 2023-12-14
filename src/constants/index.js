@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Data Analyst",
+    title: "MERN Stack Developer",
     icon: web,
   },
   {
-    title: "Machine Learning Engineer",
+    title: "React Specialist",
     icon: mobile,
   },
   {
-    title: "Supply Chain Analyst",
+    title: "Java Developer",
     icon: backend,
   },
   {
-    title: "Quantitative Analyst",
+    title: "Python Developer",
     icon: creator,
   },
 ];
@@ -116,17 +116,18 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Data Analyst",
-    company_name: "Safaricom",
+    title: "Self-Taught Developer",
+    company_name: "Independent Projects",
     icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2014-September 2015",
+    iconBg: "#2E3440",
+    date: "2022- Present",
     points: [
-      "Creating and managing data-driven insights through the analysis of various datasets and sources, utilizing tools such as Python, SQL, and data visualization libraries.",
-      "Collaborating with interdisciplinary teams including data engineers, business stakeholders, and fellow analysts to generate valuable insights and reports.",
-      "Designing and implementing dashboards and interactive visualizations to effectively communicate findings to non-technical audiences.",
-      "Contributing to the development of data collection strategies and protocols to optimize data quality and integrity.",
+      "Independently acquiring skills in data analysis and insights generation through self-guided learning, with a focus on Python, SQL, and data visualization libraries.",
+      "Collaborating with virtual communities and fellow self-taught developers to share knowledge, discuss best practices, and tackle challenging problems.",
+      "Creating and implementing dashboards and interactive visualizations as part of personal projects to effectively communicate insights and demonstrate technical proficiency.",
+      "Developing and refining data collection strategies and protocols independently to ensure optimal data quality and integrity in self-driven projects.",
     ],
+    
   },
   {
     title: "Machine Learning Engineer",

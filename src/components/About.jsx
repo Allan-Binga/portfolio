@@ -45,7 +45,7 @@ const About = () => {
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        Experienced professional well-versed in the intricacies of data analysis, data engineering, and data science. Adept at extracting valuable insights from complex datasets, designing robust data pipelines, and applying advanced analytical techniques to solve real-world problems. Skilled in programming, statistical modeling, and machine learning, with a strong commitment to driving data-informed decisions and optimizing data-driven strategies.
+       Experienced professional adept in MERN stack development, specializing in MongoDB, MySQL, and React projects. Proficient in Java development, particularly JavaFX, and recently started working on Python projects. Versatile in contributing to the design, development, and optimization of software solutions.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
