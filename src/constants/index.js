@@ -136,10 +136,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2016 - Feb 2018",
     points: [
-      "Designing, optimizing, and deploying advanced machine learning models to tackle complex challenges, utilizing tools like TensorFlow, Python, and R.",
-      "Collaborating with diverse teams to integrate machine learning solutions effectively into products and services.",
-      "Ensuring algorithm robustness through thorough testing and validation.",
-      "Contributing to tools for model training and deployment.",
+      "Developing and optimizing high-performance graphics applications using OpenGL, GLFW, and related technologies.",
+      "Collaborating with cross-functional teams to integrate cutting-edge graphics solutions into software products.",
+      "Ensuring the efficiency and reliability of OpenGL-based rendering pipelines through rigorous testing and validation processes.",
+      "Contributing to the development of tools and frameworks for graphics rendering and optimization.",
     ],
   },
   {
