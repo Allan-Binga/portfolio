@@ -130,7 +130,7 @@ const experiences = [
     
   },
   {
-    title: "Machine Learning Engineer",
+    title: "3D Graphics Developer",
     company_name: "LORI",
     icon: tesla,
     iconBg: "#E6DEDD",
